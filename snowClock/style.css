@@ -120,3 +120,12 @@ footer{
       cursor: pointer;
       padding-right: 15px;
   }
+
+  @media(max-width: 650px){
+      #copy{
+          display: none;
+      }
+      footer .sm{
+          display: none;
+      }
+  }
