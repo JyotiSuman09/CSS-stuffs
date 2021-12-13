@@ -43,7 +43,7 @@ body.light .clock{
     position: absolute;
     width: 15px;
     height: 15px;
-    background: #fff;
+    background: rgb(81, 245, 4);
     border-radius: 50%;
     z-index: 10000;
 }
@@ -111,7 +111,7 @@ body.light .sc::before{
 /* toggle styling  */
 .toggleClass{
     position: absolute;
-    bottom: 50px;
+    bottom: 30px;
     width: 20px;
     right: 150px;
     height: 20px;
