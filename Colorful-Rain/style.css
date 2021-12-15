@@ -17,16 +17,16 @@ i{
     animation: animate 5s linear infinite;
 }
 i:nth-child(4n+1){
-    background: linear-gradient(transparent, #0ff);
+    background: linear-gradient(transparent, rgb(147, 250, 250));
 }
 i:nth-child(4n+2){
-    background: linear-gradient(transparent, #0f0);
+    background: linear-gradient(transparent, rgb(255, 255, 255));
 }
 i:nth-child(4n+3){
-    background: linear-gradient(transparent, rgb(0, 4, 255));
+    background: linear-gradient(transparent, rgb(255, 0, 85));
 }
 i:nth-child(4n+4){
-    background: linear-gradient(transparent, rgb(123, 255, 0));
+    background: linear-gradient(transparent, rgb(255, 0, 0));
 }
 @keyframes animate{
     0%{
